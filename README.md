@@ -6,8 +6,8 @@ GCI2025 Summer の講義も受けていて，データサイエンスよりの�
 
 - M1ではハッカソンに参加して経験積みたい・・・・
 - フロントエンド勉強してサービス作ってみたい・・・
-- CV: 2022-2024 マクドナルドシフトリーダー \\ 2021-2024 体育会ダイビング部（2024 幹部　新人勧誘時にはリーダー担当） 
-<!---
+- CV: 2022-2024 マクドナルドシフトリーダー \\ 2021-2024 体育会ダイビング部（2024 幹部　新人勧誘時にはリーダー担当）  2024 諸岡研究室 旅行係，イベント係，写真係  2025 諸岡研究室　掃除係
+諸岡先生
 Magoshi-Yu/Magoshi-Yu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
